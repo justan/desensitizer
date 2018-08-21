@@ -1,0 +1,14 @@
+{
+  "name": "desensitizer",
+  "version": "1.0.0",
+  "description": "Desensitize sensitive data",
+  "main": "index.js",
+  "author": "justan",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  }
+}
